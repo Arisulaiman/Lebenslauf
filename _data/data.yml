@@ -50,76 +50,66 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    Selbst Studium, Zwei Jahren Erfahrung in bereich Intgration und Kordination. Menschen Comenkation und Wiesenschaft lehrender.
-    Lehrnen und Arbeiten ist mein LebenStyle . Kann Verschiedene dienge. Viele Lebens Erfahrungen und Arbeit ERfahrungen in Verschiedene Bereiche.
-    
+      Selbst Studium, Zwei Jahren Erfahrung in bereich Intgration und Kordination. Menschen Comenkation und Wiesenschaft lehrender.
+      Lehrnen und Arbeiten ist mein LebenStyle . Kann Verschiedene dienge. Viele Lebens Erfahrungen und Arbeit ERfahrungen in Verschiedene Bereiche.
 
 education:
-#    - degree: Computer, self study 
-#      university: hopefully soon
-#      time: in the coming years 
-     - degree: High school
-       university: Der_Al-Gusen, Syrien.
-       time: 2014/2016
-       details: |
-#        Describe your study here
-#          - Bullet point
-#          - Bullet point.      
-         vertifing Mathe, Physics und Chimi
+    - degree: High school
+      university: Der_Al-Gusen, Syrien.
+      time: 2014 - 2016
+      details: |     
+        Vertiefung Mathe, Physik und Chemie
      
-     - degree: IT-Programmier 	
-       university: Internet
-       time: 2019
-       details:   C#, gitlub, Github, Java sckript, Python und Online Vernstudio bei Edrak Schule.
+    - degree: IT-Programmier 	
+      university: Internet
+      time: 2019
+      details:   C#, gitlub, Github, Java sckript, Python und Online Vernstudio bei Edrak Schule.
 
-     - degree: 		Peacemaker, Train The Trainers
-       university: NCBI
-       time: . 27. 28 29 Sept. 2019
-       details:  Problemen Lösen und Menschen in Friden einbringen. 
+    - degree: 		Peacemaker, Train The Trainers
+      university: NCBI
+      time: . 27. 28 29 Sept. 2019
+      details:  Problemen Lösen und Menschen in Friden einbringen. 
 
-     - degree:		Integrationskompetenz 
-       university: NCBI
-       time:  2018/2019 drei Tagen und drei Abende
-       details: Gewaltfreie Kommunikation.
-        
-     - degree: 2019	Pressesprecher
-       university: JASS workshop
+    - degree:	Integrationskompetenz 
+      university: NCBI
+      time:  2018/2019 drei Tagen und drei Abende
+      details: Gewaltfreie Kommunikation.
+      
+    - degree: 2019	Pressesprecher
+      university: JASS workshop
+      time:
       details: Auftritts und Rethorikexperte 		
 
-     - degree: Basiskurs, Neuauswertungs	Counseling
-       university: NCBI
-       time: Februar bis Juni 2019, Der Kurs umfasst 11 Kursabende insgesamt 27.5 Std.
-       details: Den Basiskurs „Neuauswertungs – Counseling (NC)“ in Zürich besucht hat.
+    - degree: Basiskurs, Neuauswertungs	Counseling
+      university: NCBI
+      time: Februar bis Juni 2019, Der Kurs umfasst 11 Kursabende insgesamt 27.5 Std.
+      details: Den Basiskurs „Neuauswertungs – Counseling (NC)“ in Zürich besucht hat.
 
 experiences:
     - role: Schulbüro und zeitung 
       time: 2018 - Present
       company: Autonomen Schule Zürich
-      details: 
+      details: |
                Zürich ASZ, als Freiwilliger Im Schulbüro habe ich zeit langem gearbeitet. Die Aufgaben sind Email beantworten, Einstufungste, Kordinieren und dei Ganse Arbeit von die SChule Organisieren.
-               
-#        Describe your role here
-#        - Bullet point
-#        - Bullet pointst 
- 
+
     - role: 
       time:   
       company: 
-      details: |
+      details:
 #        Describe your role here
 #          - Bullet point
 #          - Bullet point
-     - role: 
+    - role: 
       time:   
       company: 
-      details: |
+      details:
 #        Describe your role here
 #          - Bullet point
 #          - Bullet point   
     - role: 
       time:   
       company: 
-      details: |
+      details:
 #        Describe your role here
 #          - Bullet point
 #          - Bullet point
@@ -143,30 +133,22 @@ skills:
 
     toolset:
       - name: Python
-      # & Django
         level: 10%
 
       - name: Javascript 
-#      & jQuery
         level: 10%
-
-      #- name: 
-      #  level: 
 
       - name: HTML5 & CSS
         level: 20%
 
-      #- name: Ruby on Rails
-      #  level: 85%
-
       - name: Sketch & Photoshop
         level: 10%
 
-
       - name: teamwork & organizing 
-       level: 100%
+        level: 100%
     
       - name: communication & languages
-       level: 90%
+        level: 90%
+
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
