@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Mohammad Sulaiman
@@ -26,71 +26,72 @@ sidebar:
 
     languages:
       - idiom: Kurdish
-        level: Native
+        level: Muttersprache
 
-      - idiom: Arabic
-        level: Native
+      - idiom: Arabisch
+        level: Muttersprache
 
       - idiom: Deutsch
-        level: Professional
+        level: Gute Kenntnisse
   
       - idiom: English
-        level: Very good
+        level: Gute Kenntnisse
 
     interests:
-      - item: Reading
+      - item: Lesen
         link:
 
-      - item: Swimming
+      - item: Schwimmen
         link:
 
-      - item: Cooking
+      - item: Kochen
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profil
     summary: |
-      Selbst Studium, Zwei Jahren Erfahrung in bereich Intgration und Kordination. Menschen Comenkation und Wiesenschaft lehrender.
-      Lehrnen und Arbeiten ist mein LebenStyle . Kann Verschiedene dienge. Viele Lebens Erfahrungen und Arbeit ERfahrungen in Verschiedene Bereiche.
+      Selbst Studium, zwei Jahre Erfahrung in Bereich Intgration und Koordination.
+      Lernen und Arbeiten ist mein Lebensstil. Viel Lebenserfahrung und Arbeitserfahrung in verschiedene Bereichen.
+      Programmierung im Selbststudium.
 
 education:
-    - degree: High school
+    - degree: Gymnasium
       university: Der_Al-Gusen, Syrien.
       time: 2014 - 2016
       details: |     
         Vertiefung Mathe, Physik und Chemie
      
     - degree: IT-Programmier 	
-      university: Internet
+      university: Selbststudium / Online
       time: 2019
-      details:   C#, gitlub, Github, Java sckript, Python und Online Vernstudio bei Edrak Schule.
+      details:   C#, Gitlab, Github, JavaScript, Python und Online Fernstudium bei Edrak.
 
-    - degree: 		Peacemaker, Train The Trainers
+    - degree: Peacemaker, Train The Trainers
       university: NCBI
       time: . 27. 28 29 Sept. 2019
-      details:  Problemen Lösen und Menschen in Friden einbringen. 
+      details:  Probleme Lösen und Menschen in Frieden bringen. 
 
     - degree:	Integrationskompetenz 
       university: NCBI
-      time:  2018/2019 drei Tagen und drei Abende
+      time:  2018/2019 drei Tage und drei Abende
       details: Gewaltfreie Kommunikation.
       
-    - degree: 2019	Pressesprecher
-      university: JASS workshop
-      time:
+    - degree: 2019 Pressesprecher
+      university: JASS Workshop
+      time: 6 Abende
       details: Auftritts und Rethorikexperte 		
 
     - degree: Basiskurs, Neuauswertungs	Counseling
       university: NCBI
-      time: Februar bis Juni 2019, Der Kurs umfasst 11 Kursabende insgesamt 27.5 Std.
+      time: Februar bis Juni 2019, 11 Kursabende
       details: Den Basiskurs „Neuauswertungs – Counseling (NC)“ in Zürich besucht hat.
 
 experiences:
-    - role: Schulbüro und zeitung 
-      time: 2018 - Present
-      company: Autonomen Schule Zürich
+    - role: Schulbüro und Zeitung 
+      time: 2018 - Heute
+      company: Autonome Schule Zürich
       details: |
-               Zürich ASZ, als Freiwilliger Im Schulbüro habe ich zeit langem gearbeitet. Die Aufgaben sind Email beantworten, Einstufungste, Kordinieren und dei Ganse Arbeit von die SChule Organisieren.
+               In der ASZ habe ich seit langem als Freiwilliger im Schulbüro gearbeitet. Die Aufgaben sind Email beantworten, Einstufungstests, Koordinieren und die ganze Arbeit von der Schule organisieren.
 
     - role: 
       time:   
@@ -116,20 +117,21 @@ experiences:
     
 
 projects:
-    title: Projects
+    title: Projekte
     intro: >
 #      You can list your side projects or open source libraries in this
 #      section.
  
     assignments:
       - title: myfilm
-        link: "#hook"
-        tagline:
+        link: "https://gitlab.com/ari.sulaiman/myfilm"
+        tagline: 
+          "Ein Projekt, um C# mit .net core zu lernen, und verschiedene Aspekte der Sprache und des Frameworks auszuprobieren. Zudem habe ich git und gitlab angewendet, um auch diese Tools der Softwareentwicklung zu lernen."
         # "A responsive website template designed to help startups promote, market and sell their products."
     # --->> schreib was du gemacht hast....
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Kompetenzen &amp; Skills
 
     toolset:
       - name: Python
@@ -141,13 +143,16 @@ skills:
       - name: HTML5 & CSS
         level: 20%
 
-      - name: Sketch & Photoshop
-        level: 10%
+      - name: C# / .net core
+        level: 20%
 
-      - name: teamwork & organizing 
+      - name: git
+        level: 40%
+
+      - name: Teamwork & Organisation
         level: 100%
     
-      - name: communication & languages
+      - name: Kommunikation & Sprachen
         level: 90%
 
 footer: >
